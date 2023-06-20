@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - World</title>  
+    <link>http://www.bbc.co.uk/news/world/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+    <description>The latest stories from the World section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Thu, 28 Nov 2013 16:06:04 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - World</title>  
+      <link>http://www.bbc.co.uk/news/world/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>More nations defy China air zone</title>  
+      <description>Japan and South Korea both fly planes unannounced through China's newly-declared air defence zone, officials from both nations say.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-25133957#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-25133957</guid>  
+      <pubDate>Thu, 28 Nov 2013 11:38:29 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71395000/jpg/_71395100_019000699reu.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71395000/jpg/_71395101_019000699reu.jpg"/> 
+    </item>  
+    <item> 
+      <title>Thai PM urges protest end after vote</title>  
+      <description>Thai Prime Minister Yingluck Shinawatra urges anti-government demonstrators to end street protests, after surviving a no-confidence vote in parliament.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-25118083#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-25118083</guid>  
+      <pubDate>Thu, 28 Nov 2013 09:29:59 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393091_020145369getty.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393132_020145369getty.jpg"/> 
+    </item>  
+    <item> 
+      <title>New East African railway launched</title>  
+      <description>Kenya formally launches a new Chinese-financed railway which should eventually extend across East Africa to reach South Sudan, DR Congo and Burundi.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-25134276#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-25134276</guid>  
+      <pubDate>Thu, 28 Nov 2013 13:11:52 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71400000/jpg/_71400208_railway.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71400000/jpg/_71400209_railway.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Explosions' at Libya arms depot</title>  
+      <description>Explosions have been heard at a weapons depot in southern Libya with reports of casualties.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-25141810#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-25141810</guid>  
+      <pubDate>Thu, 28 Nov 2013 15:53:20 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71408000/jpg/_71408477_bn-448x252.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71408000/jpg/_71408478_bn-448x252.jpg"/> 
+    </item>  
+    <item> 
+      <title>EU to gather under Ukraine cloud</title>  
+      <description>Leaders of the EU are to gather in Vilnius for a summit rocked by Ukraine's shock decision to pull back from signing a far-reaching agreement.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-25134682#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-25134682</guid>  
+      <pubDate>Thu, 28 Nov 2013 13:11:02 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71403000/jpg/_71403711_71398688.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71403000/jpg/_71403712_71398688.jpg"/> 
+    </item>  
+    <item> 
+      <title>French hostage describes escape</title>  
+      <description>A French hostage held hostage by Islamist militants in Nigeria for nearly a year describes how he managed to escape.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-25137423#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-25137423</guid>  
+      <pubDate>Thu, 28 Nov 2013 13:25:03 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71398000/jpg/_71398128_71166633.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71398000/jpg/_71398129_71166633.jpg"/> 
+    </item>  
+    <item> 
+      <title>Syria opposition head to go to talks</title>  
+      <description>Syria's main opposition leader says he will attend peace talks in Geneva in January, after the government confirms it will also go.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-25133823#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-25133823</guid>  
+      <pubDate>Thu, 28 Nov 2013 10:42:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71396000/jpg/_71396257_71396255.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71396000/jpg/_71396258_71396255.jpg"/> 
+    </item>  
+    <item> 
+      <title>Comet Ison set to graze the Sun</title>  
+      <description>Astronomers anxiously wait to see if Comet Ison can survive its encounter with the Sun and brighten into a spectacular feature on the sky.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-25129711#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-25129711</guid>  
+      <pubDate>Thu, 28 Nov 2013 02:44:58 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71387000/jpg/_71387230_71387000.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71387000/jpg/_71387231_71387000.jpg"/> 
+    </item>  
+    <item> 
+      <title>UN 'needs time' for Iran deal</title>  
+      <description>The head of the UN's nuclear agency warns it will "take some time" before work can begin on verifying Iran's fulfilment of its nuclear deal.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-25133824#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-25133824</guid>  
+      <pubDate>Thu, 28 Nov 2013 15:24:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71399000/jpg/_71399611_71397967.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71399000/jpg/_71399612_71397967.jpg"/> 
+    </item>  
+    <item> 
+      <title>India editor quits over sex claims</title>  
+      <description>The managing editor of top Indian magazine Tehelka resigns days after her boss was accused of sexually assaulting a female colleague.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-india-25132984#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-india-25132984</guid>  
+      <pubDate>Thu, 28 Nov 2013 09:44:43 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71394000/jpg/_71394126_17shoma.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71394000/jpg/_71394127_17shoma.jpg"/> 
+    </item>  
+    <item> 
+      <title>Egypt jails girls over demonstration</title>  
+      <description>An Egyptian court sentences 21 female supporters of ousted President Morsi, including seven juveniles, to 11 years in jail over a protest last month.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-25127371#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-25127371</guid>  
+      <pubDate>Thu, 28 Nov 2013 07:55:05 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71386000/jpg/_71386801_71386794.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71386000/jpg/_71386802_71386794.jpg"/> 
+    </item>  
+    <item> 
+      <title>Bieber in Australia graffiti row</title>  
+      <description>Singer Justin Bieber is asked to clean up graffiti left on an external wall of a Gold Coast hotel wall during his tour in Australia.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-25116424#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-25116424</guid>  
+      <pubDate>Thu, 28 Nov 2013 03:55:14 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71397000/jpg/_71397725_71394507.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71397000/jpg/_71397726_71394507.jpg"/> 
+    </item>  
+    <item> 
+      <title>Pakistan Taliban in cricket warning</title>  
+      <description>The Pakistani Taliban urge the country's media to stop praising Sachin Tendulkar and instead back under-fire Pakistan cricket captain Misbah-ul-Haq.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-25135586#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-25135586</guid>  
+      <pubDate>Thu, 28 Nov 2013 11:21:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71397000/jpg/_71397853_71396361.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71397000/jpg/_71397854_71396361.jpg"/> 
+    </item>  
+    <item> 
+      <title>Arizona couple 'held girls captive'</title>  
+      <description>Police in Arizona say three sisters were held captive in filthy conditions for up to two years by their mother and stepfather in the city of Tucson.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-25132953#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-25132953</guid>  
+      <pubDate>Thu, 28 Nov 2013 05:31:19 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393214_020150596-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393215_020150596-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>New delay for US health law website</title>  
+      <description>The Obama administration announces another delay to its healthcare law, this time to online medical insurance for small businesses.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-25129749#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-25129749</guid>  
+      <pubDate>Wed, 27 Nov 2013 22:41:09 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71392000/jpg/_71392390_71392362.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71392000/jpg/_71392774_71392362.jpg"/> 
+    </item>  
+    <item> 
+      <title>Two die in Brazil stadium accident</title>  
+      <description>Two people die as a crane falls into the roof of a Sao Paulo stadium due to host the opening ceremony of Brazil's 2014 World Cup finals.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-25127897#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-25127897</guid>  
+      <pubDate>Wed, 27 Nov 2013 20:19:42 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71387000/jpg/_71387407_452261875.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71387000/jpg/_71387408_452261875.jpg"/> 
+    </item>  
+    <item> 
+      <title>Colombia recalls envoy to Nicaragua</title>  
+      <description>Colombia recalls its ambassador to Nicaragua as a dispute over maritime boundaries in the Caribbean worsens.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-25131485#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-25131485</guid>  
+      <pubDate>Wed, 27 Nov 2013 21:18:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71390000/jpg/_71390617_71390532.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71390000/jpg/_71390618_71390532.jpg"/> 
+    </item>  
+    <item> 
+      <title>SA court confirms Malema fraud trial</title>  
+      <description>South African opposition politician Julius Malema loses his bid to have corruption charges dropped and is set to face trial next year.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-25138784#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-25138784</guid>  
+      <pubDate>Thu, 28 Nov 2013 13:17:30 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71401000/jpg/_71401428_juliusmalema.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71401000/jpg/_71401429_juliusmalema.jpg"/> 
+    </item>  
+    <item> 
+      <title>Kenya's president vetoes media bill</title>  
+      <description>Kenya's President Uhuru Kenyatta rejects a controversial media bill passed by parliament that would have imposed strict regulation on journalists.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-25135969#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-25135969</guid>  
+      <pubDate>Thu, 28 Nov 2013 10:09:25 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71397000/jpg/_71397000_70850127.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71397000/jpg/_71397001_70850127.jpg"/> 
+    </item>  
+    <item> 
+      <title>Bangladesh protests 'leave 15 dead'</title>  
+      <description>At least 15 people across Bangladesh are killed in protests following Monday's announcement that polls will be held on 5 January, officials say.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-25135593#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-25135593</guid>  
+      <pubDate>Thu, 28 Nov 2013 11:49:55 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71400000/jpg/_71400827_bogra-rail-line-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71400000/jpg/_71400828_bogra-rail-line-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Japan's Nikkei hits six-year high</title>  
+      <description>Japan's main stock index closes at its highest level for nearly six years, tracking overnight gains in the US markets and buoyed by a weak yen.</description>  
+      <link>http://www.bbc.co.uk/news/business-25134101#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-25134101</guid>  
+      <pubDate>Thu, 28 Nov 2013 09:14:02 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71394000/jpg/_71394620_hi006338236.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71394000/jpg/_71394621_hi006338236.jpg"/> 
+    </item>  
+    <item> 
+      <title>Berlusconi expelled from parliament</title>  
+      <description>The Italian Senate votes to expel ex-Prime Minister Silvio Berlusconi from parliament over his conviction for tax fraud.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-25128115#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-25128115</guid>  
+      <pubDate>Wed, 27 Nov 2013 20:51:55 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71386000/jpg/_71386627_aqq6gsa6.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71386000/jpg/_71386628_aqq6gsa6.jpg"/> 
+    </item>  
+    <item> 
+      <title>Russia bails last of Greenpeace crew</title>  
+      <description>A Russian court grants bail to the last Greenpeace activist detained at sea for protesting against Arctic oil-drilling.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-25137980#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-25137980</guid>  
+      <pubDate>Thu, 28 Nov 2013 11:37:29 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71399000/jpg/_71399855_russell_afp.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71399000/jpg/_71399977_russell_afp.jpg"/> 
+    </item>  
+    <item> 
+      <title>UAE 'holding US man for spoof video'</title>  
+      <description>A rights group says a US man has been held in UAE for months, accused of endangering national security after posting a parody video about youth culture.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-25137424#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-25137424</guid>  
+      <pubDate>Thu, 28 Nov 2013 15:51:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71405000/jpg/_71405975_71398144.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71405000/jpg/_71405976_71398144.jpg"/> 
+    </item>  
+    <item> 
+      <title>Dubai chosen to host World Expo 2020</title>  
+      <description>Dubai is chosen to host the World Expo trade convention in 2020 - beating off rival bids from Brazil, Turkey and Russia.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-25132810#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-25132810</guid>  
+      <pubDate>Thu, 28 Nov 2013 03:05:20 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393040_71393033.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393042_71393033.jpg"/> 
+    </item>  
+    <item> 
+      <title>Fresh look at plain cigarette packs</title>  
+      <description>The government announces an independent review of cigarette packaging - but Labour says action is needed now, "not another review".</description>  
+      <link>http://www.bbc.co.uk/news/uk-politics-25126673#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-25126673</guid>  
+      <pubDate>Thu, 28 Nov 2013 13:17:10 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71390000/jpg/_71390536_68721050.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71390000/jpg/_71390537_68721050.jpg"/> 
+    </item>  
+    <item> 
+      <title>Man jailed for vigilante murder</title>  
+      <description>A man is jailed for life after admitting he murdered and set on fire a neighbour who had been wrongly labelled a paedophile.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-25139185#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-25139185</guid>  
+      <pubDate>Thu, 28 Nov 2013 13:45:02 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71404000/jpg/_71404851_de27.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71404000/jpg/_71404852_de27.jpg"/> 
+    </item>  
+    <item> 
+      <title>Qantas seeks to relax ownership rule</title>  
+      <description>Australian airline Qantas backs a suggestion by Treasurer Joe Hockey that rules restricting foreign investment in the carrier should be changed.</description>  
+      <link>http://www.bbc.co.uk/news/business-25116529#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-25116529</guid>  
+      <pubDate>Thu, 28 Nov 2013 03:01:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71367000/jpg/_71367808_130736599.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71367000/jpg/_71367809_130736599.jpg"/> 
+    </item>  
+    <item> 
+      <title>France 'more pessimistic' on economy</title>  
+      <description>France is "more pessimistic" about the state of its economy than fellow eurozone countries, a European Commission survey has found.</description>  
+      <link>http://www.bbc.co.uk/news/business-25135250#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-25135250</guid>  
+      <pubDate>Thu, 28 Nov 2013 12:34:17 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71402000/jpg/_71402741_hi020123864.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71402000/jpg/_71402742_hi020123864.jpg"/> 
+    </item>  
+    <item> 
+      <title>Brazil raises interest rate to 10%</title>  
+      <description>Brazil's central bank raises its benchmark interest rate to 10% from 9.5%, the sixth time in a row it has hiked borrowing costs.</description>  
+      <link>http://www.bbc.co.uk/news/business-25132979#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-25132979</guid>  
+      <pubDate>Thu, 28 Nov 2013 07:03:19 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393235_69442549.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393236_69442549.jpg"/> 
+    </item>  
+    <item> 
+      <title>No plans to move World Cup - Fifa</title>  
+      <description>Fifa says it has no plans to move the 2014 World Cup away from Brazil despite the latest building accident at a stadium.</description>  
+      <link>http://www.bbc.co.uk/sport/0/football/25136562</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/25136562</guid>  
+      <pubDate>Thu, 28 Nov 2013 12:09:33 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://news.bbcimg.co.uk/media/images/71400000/jpg/_71400429_71400422.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71400000/jpg/_71400692_71400422.jpg"/> 
+    </item>  
+    <item> 
+      <title>Bresnan pushes claim for Test place</title>  
+      <description>Tim Bresnan lays claim for a place in the England team for the second Ashes Test by taking four wickets for the Performance Programme.</description>  
+      <link>http://www.bbc.co.uk/sport/0/cricket/25129592</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/cricket/25129592</guid>  
+      <pubDate>Thu, 28 Nov 2013 10:28:46 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393629_176415678.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71394000/jpg/_71394402_176415678.jpg"/> 
+    </item>  
+    <item> 
+      <title>Arrests over football 'match fixing'</title>  
+      <description>Six men are arrested by officers from the National Crime Agency investigating alleged match fixing in English football.</description>  
+      <link>http://www.bbc.co.uk/news/uk-25132538#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-25132538</guid>  
+      <pubDate>Thu, 28 Nov 2013 15:10:44 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71392000/jpg/_71392858_o4hfvwc7.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71392000/jpg/_71392859_o4hfvwc7.jpg"/> 
+    </item>  
+    <item> 
+      <title>Professionals star Lewis Collins dies</title>  
+      <description>British actor Lewis Collins, best known as Bodie in The Professionals, dies aged 67 after a five-year struggle with cancer.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-25135934#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-25135934</guid>  
+      <pubDate>Thu, 28 Nov 2013 15:58:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71399000/jpg/_71399628_lewiscollins_pa.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71399000/jpg/_71399629_lewiscollins_pa.jpg"/> 
+    </item>  
+    <item> 
+      <title>Cheryl Cole wins US X Factor payout</title>  
+      <description>Pop star Cheryl Cole receives a payout from the producers of X Factor USA, after she was dropped from the show in 2011.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-25134769#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-25134769</guid>  
+      <pubDate>Thu, 28 Nov 2013 09:48:49 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71396000/jpg/_71396675_71395487.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71396000/jpg/_71396676_71395487.jpg"/> 
+    </item>  
+    <item> 
+      <title>Funeral held for composer Tavener</title>  
+      <description>Some 700 people mourn Sir John Tavener at the composer's funeral service in Winchester Cathedral.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-25138013#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-25138013</guid>  
+      <pubDate>Thu, 28 Nov 2013 13:48:11 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71404000/jpg/_71404668_get.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71404000/jpg/_71404669_get.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Morsi-supporting teenage girls jailed</title>  
+      <description>Teenagers were among 21 female pro-Morsi demonstrators jailed for 11 years in Egypt.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-25133082#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-25133082</guid>  
+      <pubDate>Thu, 28 Nov 2013 06:47:16 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393393_71393273.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393394_71393273.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Aerial view of Brazil crane collapse</title>  
+      <description>Aerial footage has emerged of the crane which collapsed at a stadium that is due to host the opening ceremony of the 2014 World Cup football in Brazil, killing three people.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-25128845#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-25128845</guid>  
+      <pubDate>Wed, 27 Nov 2013 19:34:12 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71388000/jpg/_71388897_71388279.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71388000/jpg/_71388898_71388279.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Thailand protests gain momentum</title>  
+      <description>Tens of thousands of protestors have taken to the streets of Thailand to voice their displeasure at the elected government.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-25127436#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-25127436</guid>  
+      <pubDate>Wed, 27 Nov 2013 16:54:13 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71385000/jpg/_71385195_71385077.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71385000/jpg/_71385196_71385077.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Ukraine deal overshadows EU talks</title>  
+      <description>An EU summit to create closer ties with ex-Soviet states has been overshadowed by the collapse of a deal with Ukraine.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-25133064#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-25133064</guid>  
+      <pubDate>Thu, 28 Nov 2013 06:42:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393211_71393203.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71393000/jpg/_71393212_71393203.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Berlusconi expelled from parliament</title>  
+      <description>The Italian Senate has voted to expel ex-Prime Minister Silvio Berlusconi from parliament with immediate effect over his conviction for tax fraud.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-25132557#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-25132557</guid>  
+      <pubDate>Wed, 27 Nov 2013 23:52:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71392000/jpg/_71392439_71392432.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71392000/jpg/_71392440_71392432.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: East or West? The faces of Ukraine</title>  
+      <description>The BBC's Steve Rosenberg compares western and eastern Ukraine as the country faces a potential EU-trade deal.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-25117491#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-25117491</guid>  
+      <pubDate>Wed, 27 Nov 2013 09:27:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71369000/jpg/_71369677_71369497.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71369000/jpg/_71369678_71369497.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Meet the 'wolf man' of southern Spain</title>  
+      <description>Marcos Rodriguez Pantoja speaks to the BBC about how as a child he lived in the wilds of southern Spain for ten years before being reintegrated back into society.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-25109052#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-25109052</guid>  
+      <pubDate>Tue, 26 Nov 2013 19:14:23 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71362000/jpg/_71362009_71356331.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71362000/jpg/_71362010_71356331.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Most expensive book sold for $14.2m</title>  
+      <description>A tiny book of psalms is sold at auction in New York for more than $14m, making it the world's most expensive printed book.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-25116754#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-25116754</guid>  
+      <pubDate>Wed, 27 Nov 2013 10:19:58 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71368000/jpg/_71368652_71368643.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71368000/jpg/_71368663_71368643.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: One-minute World News</title>  
+      <description>Watch the latest news summary from BBC World News. International news updated 24 hours a day.</description>  
+      <link>http://www.bbc.co.uk/news/10462520#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/10462520</guid>  
+      <pubDate>Thu, 28 Nov 2013 11:48:09 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/48037000/jpg/_48037472_worldnews66.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/55182000/gif/_55182136__48351578_640x360-world-news-1.gif"/> 
+    </item>  
+    <item> 
+      <title>EU-Russia rivalry looms over Vilnius summit</title>  
+      <description>Ukraine U-turn delivers blow to EU summit in Vilnius</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-25133721#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-25133721</guid>  
+      <pubDate>Thu, 28 Nov 2013 09:33:01 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71394000/jpg/_71394233_eu_afp.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71394000/jpg/_71394234_eu_afp.jpg"/> 
+    </item>  
+    <item> 
+      <title>Viewpoints: China air zone tensions</title>  
+      <description>Five views on where the China air zone dispute is heading</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-25116119#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-25116119</guid>  
+      <pubDate>Thu, 28 Nov 2013 10:18:56 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71397000/jpg/_71397664_71345857.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71397000/jpg/_71397665_71345857.jpg"/> 
+    </item>  
+    <item> 
+      <title>What happens when you cross Thanksgiving with Hanukkah?</title>  
+      <description>What happens when you cross Thanksgiving with Hanukkah?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-25125042#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-25125042</guid>  
+      <pubDate>Wed, 27 Nov 2013 20:48:01 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71390000/jpg/_71390997_71386118.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71390000/jpg/_71390998_71386118.jpg"/> 
+    </item>  
+    <item> 
+      <title>Preserving nature's lost kingdom</title>  
+      <description>Why Burma's unexplored forests 'must be preserved'</description>  
+      <link>http://www.bbc.co.uk/news/magazine-25088368#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-25088368</guid>  
+      <pubDate>Thu, 28 Nov 2013 00:53:22 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71394000/jpg/_71394608_5052743-high_res-wild-burma-natures-lost-kingdom.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71394000/jpg/_71394609_5052743-high_res-wild-burma-natures-lost-kingdom.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Do elephants grieve like people do?</title>  
+      <description>Do animals mourn their dead like people do?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-25112110#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-25112110</guid>  
+      <pubDate>Thu, 28 Nov 2013 03:46:39 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71387000/jpg/_71387842_elephant2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71387000/jpg/_71387843_elephant2.jpg"/> 
+    </item>  
+    <item> 
+      <title>Bitcoin's rise divides the experts</title>  
+      <description>Fantasy money or the future of finance?</description>  
+      <link>http://www.bbc.co.uk/news/technology-25130261#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-25130261</guid>  
+      <pubDate>Thu, 28 Nov 2013 00:01:51 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71392000/jpg/_71392160_bitcoin-coin2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71392000/jpg/_71392161_bitcoin-coin2.jpg"/> 
+    </item>  
+    <item> 
+      <title>In India men are men but women are often 'girls'</title>  
+      <description>India's confusion over how to talk about women</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-india-25127638#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-india-25127638</guid>  
+      <pubDate>Thu, 28 Nov 2013 01:32:50 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/71392000/jpg/_71392989_c2b474e4-0b0f-40f3-8200-73414c5773a6.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/71392000/jpg/_71392990_c2b474e4-0b0f-40f3-8200-73414c5773a6.jpg"/> 
+    </item> 
+  </channel> 
+</rss>

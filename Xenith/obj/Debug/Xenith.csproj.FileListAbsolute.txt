@@ -1,0 +1,7 @@
+C:\MFiles\Project Workspaces\VS2010 Projects\Xenith\Xenith\bin\Xenith.dll
+C:\MFiles\Project Workspaces\VS2010 Projects\Xenith\Xenith\bin\Xenith.pdb
+C:\MFiles\Project Workspaces\VS2010 Projects\Xenith\Xenith\obj\Debug\Xenith.dll
+C:\MFiles\Project Workspaces\VS2010 Projects\Xenith\Xenith\obj\Debug\Xenith.pdb
+C:\MFiles\Project Workspaces\VS2010 Projects\Xenith\Xenith\bin\Newtonsoft.Json.dll
+C:\MFiles\Project Workspaces\VS2010 Projects\Xenith\Xenith\bin\Newtonsoft.Json.xml
+C:\MFiles\Project Workspaces\VS2010 Projects\Xenith\Xenith\obj\Debug\Xenith.csprojResolveAssemblyReference.cache
